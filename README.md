@@ -2,7 +2,7 @@
 > Convert any file to Base64. Just choose your file and receive the base64 encoded string and a link to test.
 
 ## Online Test
-[https://github.com/treedbox/treedbox-convert-base64](https://github.com/treedbox/treedbox-convert-base64 'Treedbox Convert Base64')
+[https://treedbox.github.io/treedbox-convert-base64/](https://treedbox.github.io/treedbox-convert-base64/ 'Treedbox Convert Base64')
 
 ## Example
 You can convert multiple files at once, you will receive a `textarea` with the base64 encoded string and a `link` for each file. Browser's Address Bar are natural Base64 decodes :).
